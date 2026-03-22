@@ -1,12 +1,12 @@
 {
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "CLI for the Web42 Agent Marketplace",
   "homepage": "https://web42.ai",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/yarn-rp/web42-marketplace/releases/download/cli/v0.2.7/web42-windows-x64.exe#/web42.exe",
-      "hash": "bc4b10fb195757b911c29ba45f61c689e47437a6d83e706460893b6312ca4c89"
+      "url": "https://github.com/yarn-rp/web42-marketplace/releases/download/cli/v0.2.8/web42-windows-x64.exe#/web42.exe",
+      "hash": "6c260d1797985b27efe40e33bb4424553b77b1862565f492ea6ba1eafa6c5cfb"
     }
   },
   "bin": "web42.exe",
